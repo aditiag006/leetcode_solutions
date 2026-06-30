@@ -6,8 +6,8 @@ public:
             int leftsum = 0;
             int rightsum = 0;
 
-            if(i == 0) leftsum = 0;
-            if(i == n-1) rightsum = 0;
+            // if(i == 0) leftsum = 0;
+            // if(i == n-1) rightsum = 0;
 
             int left = 0; 
             int right = n-1;
