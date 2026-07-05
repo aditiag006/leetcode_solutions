@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/aditiag006/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
