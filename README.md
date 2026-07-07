@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/aditiag006/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aditiag006/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aditiag006/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0328-odd-even-linked-list) |
