@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/aditiag006/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
