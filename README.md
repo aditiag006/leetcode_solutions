@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/aditiag006/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aditiag006/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aditiag006/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aditiag006/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/aditiag006/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aditiag006/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
