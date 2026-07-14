@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aditiag006/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/aditiag006/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/aditiag006/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aditiag006/leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditiag006/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/aditiag006/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/aditiag006/leetcode_solutions/tree/master/0290-word-pattern) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/aditiag006/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
