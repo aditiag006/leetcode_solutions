@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aditiag006/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aditiag006/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aditiag006/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/aditiag006/leetcode_solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aditiag006/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/aditiag006/leetcode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aditiag006/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
