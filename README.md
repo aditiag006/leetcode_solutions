@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/aditiag006/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditiag006/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0148-sort-list) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditiag006/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aditiag006/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/aditiag006/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/aditiag006/leetcode_solutions/tree/master/0290-word-pattern) |
 | [2390-removing-stars-from-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
