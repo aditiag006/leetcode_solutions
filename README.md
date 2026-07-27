@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aditiag006/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/aditiag006/leetcode_solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/aditiag006/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aditiag006/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aditiag006/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditiag006/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aditiag006/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
