@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/aditiag006/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/aditiag006/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditiag006/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aditiag006/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Interactive
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aditiag006/leetcode_solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aditiag006/leetcode_solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## String
