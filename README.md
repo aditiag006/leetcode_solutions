@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/aditiag006/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditiag006/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/aditiag006/leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditiag006/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditiag006/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/aditiag006/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/aditiag006/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aditiag006/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/aditiag006/leetcode_solutions/tree/master/0290-word-pattern) |
