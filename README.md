@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aditiag006/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditiag006/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aditiag006/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditiag006/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/aditiag006/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aditiag006/leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/aditiag006/leetcode_solutions/tree/master/0725-split-linked-list-in-parts) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aditiag006/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aditiag006/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Interactive
 |  |
