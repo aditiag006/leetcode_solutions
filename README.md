@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Interactive
 |  |
 | ------- |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aditiag006/leetcode_solutions/tree/master/0085-maximal-rectangle) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
