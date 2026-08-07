@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aditiag006/leetcode_solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aditiag006/leetcode_solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
