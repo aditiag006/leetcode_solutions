@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditiag006/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/aditiag006/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aditiag006/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aditiag006/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditiag006/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/aditiag006/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aditiag006/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0169-majority-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aditiag006/leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3731-find-missing-elements](https://github.com/aditiag006/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditiag006/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/aditiag006/leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditiag006/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Data Stream
 |  |
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aditiag006/leetcode_solutions/tree/master/0146-lru-cache) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditiag006/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
