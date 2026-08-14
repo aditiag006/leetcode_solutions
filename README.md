@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditiag006/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditiag006/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditiag006/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/aditiag006/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/aditiag006/leetcode_solutions/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditiag006/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aditiag006/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/aditiag006/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditiag006/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
