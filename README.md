@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aditiag006/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditiag006/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditiag006/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/aditiag006/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditiag006/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aditiag006/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditiag006/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aditiag006/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/aditiag006/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aditiag006/leetcode_solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditiag006/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/aditiag006/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 ## Enumeration
 |  |
