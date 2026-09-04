@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditiag006/leetcode_solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/aditiag006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Interactive
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/aditiag006/leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/aditiag006/leetcode_solutions/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/aditiag006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditiag006/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aditiag006/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0649-dota2-senate](https://github.com/aditiag006/leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/aditiag006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
