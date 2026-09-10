@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aditiag006/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditiag006/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/aditiag006/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/aditiag006/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aditiag006/leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/aditiag006/leetcode_solutions/tree/master/0704-binary-search) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aditiag006/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aditiag006/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditiag006/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditiag006/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditiag006/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditiag006/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
