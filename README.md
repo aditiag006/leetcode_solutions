@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditiag006/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aditiag006/leetcode_solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aditiag006/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/aditiag006/leetcode_solutions/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aditiag006/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/aditiag006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditiag006/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aditiag006/leetcode_solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/aditiag006/leetcode_solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/aditiag006/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiag006/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aditiag006/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aditiag006/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
