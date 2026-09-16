@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/aditiag006/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1844-replace-all-digits-with-characters](https://github.com/aditiag006/leetcode_solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/aditiag006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aditiag006/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditiag006/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
