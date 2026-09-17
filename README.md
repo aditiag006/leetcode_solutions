@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/aditiag006/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditiag006/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aditiag006/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditiag006/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aditiag006/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditiag006/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aditiag006/leetcode_solutions/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aditiag006/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aditiag006/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/aditiag006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditiag006/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
