@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditiag006/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aditiag006/leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aditiag006/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/aditiag006/leetcode_solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditiag006/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aditiag006/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiag006/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aditiag006/leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/aditiag006/leetcode_solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
 | ------- |
