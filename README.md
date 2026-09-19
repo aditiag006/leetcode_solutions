@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/aditiag006/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditiag006/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aditiag006/leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aditiag006/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/aditiag006/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
 | ------- |
