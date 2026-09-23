@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/aditiag006/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/aditiag006/leetcode_solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditiag006/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3285-find-indices-of-stable-mountains](https://github.com/aditiag006/leetcode_solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/aditiag006/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
