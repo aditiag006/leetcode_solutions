@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditiag006/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aditiag006/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditiag006/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1002-find-common-characters](https://github.com/aditiag006/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aditiag006/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditiag006/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditiag006/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditiag006/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiag006/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aditiag006/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1002-find-common-characters](https://github.com/aditiag006/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditiag006/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditiag006/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditiag006/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/aditiag006/leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/aditiag006/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/aditiag006/leetcode_solutions/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/aditiag006/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditiag006/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1844-replace-all-digits-with-characters](https://github.com/aditiag006/leetcode_solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/aditiag006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
