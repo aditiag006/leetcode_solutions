@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aditiag006/leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aditiag006/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/aditiag006/leetcode_solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2951-find-the-peaks](https://github.com/aditiag006/leetcode_solutions/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditiag006/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/aditiag006/leetcode_solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/aditiag006/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/aditiag006/leetcode_solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditiag006/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Doubly-Linked List
 |  |
